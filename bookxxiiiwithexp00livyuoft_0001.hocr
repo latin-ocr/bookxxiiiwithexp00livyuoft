@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bookxxiiiwithexp00livyuoft_0001.png"; bbox 0 0 1649 2817; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 346 1062 1526 1213">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 346 1021 1526 1241">
+     <span class='ocr_line' id='line_1_1' title="bbox 346 1062 1526 1213; baseline -0.016 -1"><span class='ocrx_word' id='word_1_1' title='bbox 346 1062 620 1213; x_wconf 53' lang='lat' dir='ltr'>&#39;12le</span> <span class='ocrx_word' id='word_1_2' title='bbox 667 1101 984 1204; x_wconf 75' lang='lat' dir='ltr'>BOOK</span> <span class='ocrx_word' id='word_1_3' title='bbox 1033 1097 1369 1201; x_wconf 69' lang='lat' dir='ltr'><strong>XXIII.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1523 1088 1526 1091; x_wconf 85' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 519 1279 1478 1369">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 519 1279 1478 1369">
+     <span class='ocr_line' id='line_1_2' title="bbox 519 1279 1478 1369; baseline -0.021 -4"><span class='ocrx_word' id='word_1_5' title='bbox 519 1285 795 1364; x_wconf 81' lang='lat' dir='ltr'>WITH</span> <span class='ocrx_word' id='word_1_6' title='bbox 860 1279 1162 1361; x_wconf 74' lang='lat' dir='ltr'>NOTES</span> <span class='ocrx_word' id='word_1_7' title='bbox 1301 1344 1331 1369; x_wconf 65' lang='lat'><em>„</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1441 1290 1478 1308; x_wconf 65' lang='lat'><strong>²</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 386 1430 1308 1661">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 386 1430 1308 1661">
+     <span class='ocr_line' id='line_1_3' title="bbox 683 1430 1008 1504; baseline -0.018 0"><span class='ocrx_word' id='word_1_9' title='bbox 683 1433 792 1504; x_wconf 74' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_10' title='bbox 851 1430 1008 1499; x_wconf 74' lang='lat' dir='ltr'>THE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 386 1558 1308 1661; baseline -0.021 0"><span class='ocrx_word' id='word_1_11' title='bbox 386 1558 1308 1661; x_wconf 65' lang='lat' dir='ltr'>BEVPJTWHITRDD.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
